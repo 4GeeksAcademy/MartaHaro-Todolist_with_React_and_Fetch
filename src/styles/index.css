@@ -10,3 +10,26 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+body {
+   background-color: rgba(250, 235, 215, 0.616);
+    margin-top: 50px;
+}
+
+input {
+    border: none;
+}
+
+ul {
+    padding: 0;
+}
+
+ul li{
+    border: 1px solid rgba(128, 128, 128, 0.58);
+    list-style: none;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+}
