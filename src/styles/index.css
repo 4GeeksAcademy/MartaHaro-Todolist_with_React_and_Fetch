@@ -12,9 +12,11 @@
 */
 
 body {
-   background-color: rgba(250, 235, 215, 0.616);
+   background-color: rgba(216, 224, 235, 0.31);
     margin-top: 50px;
 }
+
+
 
 input {
     border: none;
@@ -32,4 +34,5 @@ ul li{
 
 h1 {
     text-align: center;
+    color: rgb(45, 147, 236);
 }
